@@ -1,6 +1,6 @@
 <div align="center">
 
-# RALF Framework
+# Role-Agent Lifecycle Framework
 
 ### Structure your organization before you automate it.
 
